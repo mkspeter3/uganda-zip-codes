@@ -1,0 +1,7 @@
+{
+  "name": "uganda-zip-codes",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}

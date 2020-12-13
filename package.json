@@ -1,0 +1,24 @@
+{
+  "name": "uganda-zip-codes",
+  "version": "1.3.0",
+  "description": "Find any Ugandan area Zip Code from this app with an easy search filter and fast copy zip code function",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkspeter3/uganda-zip-codes.git"
+  },
+  "keywords": [
+    "uganda",
+    "zip",
+    "codes"
+  ],
+  "author": "OnlineCEO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkspeter3/uganda-zip-codes/issues"
+  },
+  "homepage": "https://github.com/mkspeter3/uganda-zip-codes#readme"
+}
