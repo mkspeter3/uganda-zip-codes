@@ -27,7 +27,7 @@
         <allow-intent href="market:*" />
     </platform>
 
-    <icon src="icon.png" />
+    <icon src="www/icon.png" />
 
 
     <!-- My preferences -->
