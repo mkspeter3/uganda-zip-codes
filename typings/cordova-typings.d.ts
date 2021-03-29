@@ -1,0 +1,1 @@
+/// <reference path="..\.vscode\typings\cordova\plugins\InAppBrowser.d.ts"/>
