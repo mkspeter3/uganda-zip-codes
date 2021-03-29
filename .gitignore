@@ -7,4 +7,4 @@ node_modules/
 /plugins/
 /platforms/
 .vscode/
-.idea/
+typings/
