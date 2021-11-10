@@ -4,7 +4,7 @@
   },
   "devDependencies": {
     "cordova-admob-sdk": "^0.20.3",
-    "cordova-android": "^9.0.0",
+    "cordova-android": "^9.1.0",
     "cordova-plugin-admob-free": "^0.20.0",
     "cordova-plugin-appversion": "^1.0.0",
     "cordova-plugin-inappbrowser": "^5.0.0",
